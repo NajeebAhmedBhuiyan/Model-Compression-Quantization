@@ -1,0 +1,1 @@
+In this repository, I will be uploading different notebooks on quantization, which is a deep learning model compression method. There are several types of quantization and I wish to cover all of them here. 
